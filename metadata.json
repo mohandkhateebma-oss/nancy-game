@@ -1,0 +1,6 @@
+{
+  "name": "Discover Your Digital DNA",
+  "description": "An interactive robot maze game that reveals your Digital DNA and IT archetype through your navigation and problem-solving style.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
